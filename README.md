@@ -16,7 +16,7 @@ Apache APISIX is a versatile and high-performance API gateway that helps develop
 ## Timestamps
 
 - **Created:** 2025-01-08 
-- **Modified:** 2025-01-13 
+- **Modified:** 2025-01-14 
 
 ## APIs
 
@@ -33,6 +33,13 @@ The mocking Plugin is used for mocking an API. When executed, it returns random 
 #### Properties
 
 - [Documentation](https://apisix.apache.org)
+
+## Common Properties
+
+- [Documentation](https://apisix.apache.org/docs/)
+- [Blog](https://apisix.apache.org/blog/)
+- [Support](https://apisix.apache.org/help/)
+- [Events](https://apisix.apache.org/docs/general/events/)
 
 ## Maintainers
 
